@@ -4,8 +4,8 @@
     <display-name lang="es">ANTENA 7</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Telemicro Canal 5">
-    <display-name lang="es">Telemicro Canal 5</display-name>
+  <channel id="LA | Telemicro">
+    <display-name lang="es">LA | Telemicro</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20210514010000 -0500" stop="20210514020000 -0500" channel="ANTENA 7">
@@ -112,86 +112,5 @@
   </programme>
   <programme start="20210515230000 -0500" stop="20210516000000 -0500" channel="ANTENA 7">
     <title lang="es">WWE Raw</title>
-  </programme>
-  <programme start="20210514010000 -0500" stop="20210514020000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Kuzey Guney</title>
-  </programme>
-  <programme start="20210514020000 -0500" stop="20210514030000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Ciudad despiadada</title>
-  </programme>
-  <programme start="20210514030000 -0500" stop="20210514040000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">¿Te acuerdas de mí</title>
-  </programme>
-  <programme start="20210514040000 -0500" stop="20210514050000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Noticias Telemicro</title>
-  </programme>
-  <programme start="20210514050000 -0500" stop="20210514060000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">El Reperpero</title>
-  </programme>
-  <programme start="20210514060000 -0500" stop="20210514063000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Noticiero Univisión</title>
-  </programme>
-  <programme start="20210514063000 -0500" stop="20210514073000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Primer impacto</title>
-  </programme>
-  <programme start="20210514073000 -0500" stop="20210514083000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">De Extremo a Extremo</title>
-  </programme>
-  <programme start="20210514083000 -0500" stop="20210514110000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Telemicro</title>
-  </programme>
-  <programme start="20210514110000 -0500" stop="20210514120000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">La opción de la mañana</title>
-  </programme>
-  <programme start="20210514120000 -0500" stop="20210514140000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Matinal</title>
-  </programme>
-  <programme start="20210514140000 -0500" stop="20210514150000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Despierta América</title>
-  </programme>
-  <programme start="20210514150000 -0500" stop="20210514180000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Curso 1ro de primaria</title>
-  </programme>
-  <programme start="20210514180000 -0500" stop="20210514190000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Quererlo Todo</title>
-  </programme>
-  <programme start="20210514190000 -0500" stop="20210514200000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Fuego Ardiente</title>
-  </programme>
-  <programme start="20210514200000 -0500" stop="20210514210000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Noticias Telemicro</title>
-  </programme>
-  <programme start="20210514210000 -0500" stop="20210515000000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Curso 5to de secundaria</title>
-  </programme>
-  <programme start="20210515110000 -0500" stop="20210515120000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Telemicro</title>
-  </programme>
-  <programme start="20210515120000 -0500" stop="20210515130000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">La Escuelita V.I.P</title>
-  </programme>
-  <programme start="20210515130000 -0500" stop="20210515140000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Una familia de diez</title>
-  </programme>
-  <programme start="20210515140000 -0500" stop="20210515150000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Vecinos</title>
-  </programme>
-  <programme start="20210515150000 -0500" stop="20210515160000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20210515160000 -0500" stop="20210515170000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20210515170000 -0500" stop="20210515180000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Q' lo que hay</title>
-  </programme>
-  <programme start="20210515180000 -0500" stop="20210515200000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Cine tres</title>
-  </programme>
-  <programme start="20210515200000 -0500" stop="20210515220000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Cine tres</title>
-  </programme>
-  <programme start="20210515220000 -0500" stop="20210516000000 -0500" channel="Telemicro Canal 5">
-    <title lang="es">Cine tres</title>
   </programme>
 </tv>
